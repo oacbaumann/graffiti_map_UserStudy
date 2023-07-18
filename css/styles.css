@@ -1,0 +1,457 @@
+  /* --- GENERAL ---- */
+  body {
+    margin: 0;
+    padding: 0;
+    /* Hide vertical scrollbar */
+    overflow-y: hidden;
+    /* Hide horizontal scrollbar */
+    overflow-x: hidden;
+  }
+
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .graffiti_img_preview {
+    object-fit: contain;
+    max-height: 150px;
+    max-width: 300px;
+    border: 1px solid black;
+    background-color: rgba(247, 247, 247, 0.5);
+    background-size: cover;
+    background-position: center center;
+    box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.5);
+  }
+
+
+  /* ----- POP UPS ----- */
+  .graffiti_popup .mapboxgl-popup-content {
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 20px;
+    border-radius: 0;
+    box-shadow: none;
+    text-shadow: 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white;
+    text-align: center;
+    opacity: 0.1;
+    transition: opacity 0.4s;
+  }
+
+  .graffiti_popup.show .mapboxgl-popup-content {
+    opacity: 1;
+  }
+
+  .graffiti_popup .mapboxgl-popup-tip {
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+  }
+
+  .popup-buildings {
+    font-size: 14px;
+  }
+
+  /* ----- BUTTONS ----- */
+  .toggleButton {
+    box-shadow: 0 0 5px white;
+    padding: 5px 10px;
+    color: white;
+    opacity: 1;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    line-height: 20px;
+    z-index: 1;
+    outline: 1px solid rgba(0, 0, 0, 0.3);
+    margin-right: 15px;
+    transition: transform 0.3s ease-in-out;
+    background-color: rgb(39, 0, 137, 1);
+  }
+
+
+  .toggleButton:hover {
+    outline: 2px solid black;
+    transform: scale(1.1);
+    background-color: #0dace5;
+  }
+
+
+  /* ---- FILTERS ---- */
+
+  #filter_menu {
+    border: 1px solid #8f8f8f;
+    outline-width: 1px;
+    border-radius: 10px;
+    display: none;
+    position: fixed;
+    top: 52px;
+    left: 10px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    z-index: 9999;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+  #filter_menu label {
+    margin: 2px;
+    font-size: 16px;
+  }
+
+
+
+
+  /* ----- BASEMAP MENU ----- */
+  #menu-icon {
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+    z-index: 1;
+    cursor: pointer;
+    width: 4em;
+    height: 4em;
+    background-image: url('../icons/grey_icon.png');
+    background-size: cover;
+    outline: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 20%;
+    box-shadow: 0 0 5px white;
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #menu-icon:hover {
+    transform: scale(1.1);
+    outline: 2px solid rgba(0, 0, 0, 1);
+  }
+
+
+  .icon-text {
+    font-size: 14px;
+    margin-top: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white;
+  }
+
+
+  #basemap-menu {
+    position: absolute;
+    bottom: 112px;
+    left: 10px;
+    padding: 10px;
+    border: 1px solid #8f8f8f;
+    display: none;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #basemap-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #basemap-list li {
+    cursor: pointer;
+    padding: 5px;
+    padding-left: 30px;
+    position: relative;
+  }
+
+  #basemap-list li::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-right: 10px;
+    border: 1px solid #000;
+  }
+
+  #basemap-list li:hover {
+    background-color: #eee;
+  }
+
+  #standard::before {
+    background-image: url('../icons/color_icon.png');
+    background-size: cover;
+  }
+
+  #grey::before {
+    background-image: url('../icons/grey_icon.png');
+    background-size: cover;
+  }
+
+  #aerial::before {
+    background-image: url('../icons/aerial_icon.png');
+    background-size: cover;
+  }
+
+  #osm::before {
+    background-image: url('../icons/osm_icon.png');
+    background-size: cover;
+  }
+
+  /* ----- SLIDER & DATES ----- */
+
+  #button_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+  }
+
+  #start-date {
+    position: relative;
+    left: 0;
+    top: 0;
+    z-index: 1;
+  }
+
+  #end-date {
+    position: relative;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+
+  #slider-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin-right: 50px;
+    padding-top: 5px;
+    margin: 0 auto;
+text-align: center;
+
+  }
+
+
+  #slider {
+    flex-grow: 1;
+    margin: 0 25px;
+  }
+
+  .noUi-connect {
+    background: rgb(39, 0, 137, 1);
+    ;
+
+  }
+
+  input[type="date" i] {
+    font-family: sans-serif;
+    padding-inline-start: 1px;
+    cursor: pointer;
+    align-items: center;
+    display: inline-flex;
+    overflow: hidden;
+    padding: 0px;
+  }
+
+  .noUi-horizontal .noUi-handle,
+  .noUi-vertical .noUi-handle {
+    background: rgb(213, 206, 206);
+    border: 2px solid #a6a6a6;
+  }
+
+
+  /* ---- NUMBER OF GRAFFITI ---*/
+  #feature-number {
+    position: relative;
+    left: 135px;
+    top: -27px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 4px white, 0 0 4px white, 0 0 4px white, 0 0 4px white;
+  }
+
+
+  /* --- RIGHT SIDEBAR ----- */
+
+
+  .flex-center {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .flex-center.left {
+    left: 0px;
+  }
+
+  .flex-center.right {
+    right: 0px;
+  }
+
+  .right.collapsed {
+    transform: translateX(295px);
+  }
+
+  .sidebar {
+    transition: transform 1s;
+    z-index: 1;
+    width: 300px;
+    height: 100%;
+  }
+
+  .sidebar-toggle.right {
+    left: -1.5em;
+  }
+
+  .sidebar-toggle:hover {
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 1);
+  }
+
+  .sidebar-toggle.hovered_sidebar {
+    border: 1px solid rgba(0, 0, 0, 1);
+    transform: scale(1.1);
+  }
+
+
+  .sidebar-toggle {
+    position: absolute;
+    width: 1.3em;
+    height: 1.3em;
+    overflow: visible;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .sidebar-content {
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(61, 61, 61);
+    padding-top: 2px;
+    padding-bottom: 2em;
+    text-align: center;
+  }
+
+  .rounded-rect {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 50px -25px black;
+  }
+
+  #content-wrapper {
+    outline: solid #0000007b;
+    outline-width: 1px;
+    border-radius: 10px;
+    height: 100%;
+    overflow-y: auto;
+    width: 100%;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 38px;
+    background-color: #f2f2f2;
+  }
+
+  .graffiti_info {
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    margin: 5px;
+    margin-bottom: 15px;
+    margin-right: 8px;
+    border-radius: 10px;
+    background-color: white;
+  }
+
+  .graffiti_info_img {
+    object-fit: contain;
+    max-height: 100px;
+    width: 100%
+  }
+
+  .graffiti_description {
+    font-size: 14px;
+  }
+
+  #filter_img {
+    position: relative;
+    height: 25px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+
+  #filterButton {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .fly_to_symbol {
+    height: 15px;
+    margin-right: 5px;
+  }
+
+  .graffiti_info_interaction {
+    border-radius: 5px;
+    font-size: 14px;
+    display: inline-block;
+    cursor: pointer;
+    border: 1.5px solid rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    margin-bottom: 2px;
+  }
+
+  .graffiti_info_interaction:hover {
+    border-color: rgba(0, 0, 0, 1);
+  }
+
+  .graffiti_info_interaction+a {
+    display: block;
+  }
+
+  .textLink {
+    font-size: 12px;
+    margin-bottom: 2px;
+  }
+
+  input[type="checkbox"] {
+    accent-color: #0dace5;
+  }
+
+  .checkbox_hover:hover {
+    cursor: pointer;
+  }
+
+  #buildings_checkbox {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  #buildings_checkbox input[type="checkbox"] {
+    margin-right: 15px;
+  }
+
+  #button_3D{
+margin-left: 68.084px;
+margin-right: 20px;
+
+  }

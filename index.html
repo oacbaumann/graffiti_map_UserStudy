@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Map Mode Selection</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-family: 'StylishFont', sans-serif;
+    }
+    
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .box {
+      width: 200px;
+      height: 200px;
+      background-color: #f2f2f2;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 10px;
+      text-align: center;
+      font-size: 24px;
+      cursor: pointer;
+      transition: all 0.5s ease;
+    }
+    
+    .highlight {
+      background-color: #dddddd;
+      border-color: black;
+      border-width: 3px;
+      transform: scale(1.1);
+    }
+    
+    .text {
+      margin-top: 20px;
+      font-size: 16px;
+    }
+    
+    /* Add a gap between the boxes */
+    .box:last-child {
+      margin-left: 50px;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box" id="box1">2D Map</div>
+    <div class="box" id="box2">3D Map</div>
+  </div>
+  
+  <div class="text"><br>You can still change your selection later on.</div>
+
+  <script>
+    // Box highlighting
+    var box1 = document.getElementById("box1");
+    var box2 = document.getElementById("box2");
+
+    box1.addEventListener("mouseover", function() {
+      box1.classList.add("highlight");
+    });
+
+    box1.addEventListener("mouseout", function() {
+      box1.classList.remove("highlight");
+    });
+
+    box2.addEventListener("mouseover", function() {
+      box2.classList.add("highlight");
+    });
+
+    box2.addEventListener("mouseout", function() {
+      box2.classList.remove("highlight");
+    });
+
+    // Box linking
+    box1.addEventListener("click", function() {
+      window.location.href = "2D_version.html";
+    });
+
+    box2.addEventListener("click", function() {
+      window.location.href = "3D_version.html";
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,3012 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 1,
+                "numberGraf": "001",
+                "start_date": "2022-05-03",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "WORDS NOT YA VOICE",
+                "text_more": null,
+                "colors": "green, yellow, blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.36757525453066,
+                        48.22292154533211,
+                        5.475959444827546
+                    ],
+                    [
+                        16.367573722217934,
+                        48.22294490620202,
+                        5.432122985729067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 2,
+                "numberGraf": "002",
+                "start_date": "2022-05-03",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "THE DARKNESS",
+                "text_more": null,
+                "colors": "green",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.3675998512466,
+                        48.22292013314549,
+                        4.602177852681589
+                    ],
+                    [
+                        16.36762708396016,
+                        48.222922015982824,
+                        5.27796725394365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 3,
+                "numberGraf": "003",
+                "start_date": "2022-03-10",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "MK",
+                "text_more": null,
+                "colors": "silver, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367632202875754,
+                        48.222885546853256,
+                        5.310182702736523
+                    ],
+                    [
+                        16.367632819474984,
+                        48.22291740565905,
+                        3.69948738328956
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 4,
+                "numberGraf": "004",
+                "start_date": "2021-03-10",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "white, red",
+                "seite": 2,
+                "political": 1,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.3696357677593,
+                        48.219691295588724,
+                        5.590817125516945
+                    ],
+                    [
+                        16.369678280127676,
+                        48.21964061550276,
+                        4.6446475094583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 5,
+                "numberGraf": "005",
+                "start_date": "2020-02-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "WILD 4 THE SEI",
+                "text_more": null,
+                "colors": "pink, yellow, orange, blue, navy",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.371715436640688,
+                        48.217214480535844,
+                        5.087302282653424
+                    ],
+                    [
+                        16.371780349046812,
+                        48.21716511746797,
+                        5.005043017249363
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 6,
+                "numberGraf": "006",
+                "start_date": "2021-01-11",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "pink, white, red, black",
+                "seite": 1,
+                "political": null,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.371932178965775,
+                        48.217003316088395,
+                        3.104217461175584
+                    ],
+                    [
+                        16.371917218072138,
+                        48.21701677137532,
+                        4.746105298341417
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 7,
+                "numberGraf": "007",
+                "start_date": "2017-05-07",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "BEZE",
+                "text_more": "HAPPY BIRTHDAY TO SICKEO & ME VIENNA",
+                "colors": "blue, purple",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.372752675776304,
+                        48.21625774517076,
+                        3.099743936031629
+                    ],
+                    [
+                        16.372721786310144,
+                        48.216291689888685,
+                        3.058511377582476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 8,
+                "numberGraf": "008",
+                "start_date": "2015-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "GRAM",
+                "text_more": null,
+                "colors": "green, pink, blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.372777098487663,
+                        48.2162479707837,
+                        3.039712951692497
+                    ],
+                    [
+                        16.372807055443896,
+                        48.21621939792755,
+                        3.938547899513655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 9,
+                "numberGraf": "009",
+                "start_date": "2021-03-10",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "REAL576",
+                "text_more": null,
+                "colors": "pink, purple, blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37396048698536,
+                        48.21475460759369,
+                        3.429050828153571
+                    ],
+                    [
+                        16.373932692747058,
+                        48.21479734749741,
+                        2.869135936474476
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 10,
+                "numberGraf": "010",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "BRK",
+                "text_more": "TRBTS BRUCK DANTE",
+                "colors": "blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.374478524012567,
+                        48.214073654530075,
+                        2.337044031210338
+                    ],
+                    [
+                        16.374488000510464,
+                        48.21405983019155,
+                        4.98439582942215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 11,
+                "numberGraf": "011",
+                "start_date": "2021-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "BRUCK",
+                "text_more": null,
+                "colors": "blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.374486935869335,
+                        48.214058568179986,
+                        3.400467099171699
+                    ],
+                    [
+                        16.374528784292078,
+                        48.21399790573501,
+                        3.434512224201352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 12,
+                "numberGraf": "012",
+                "start_date": "2021-03-10",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "ORaRB?",
+                "text_more": "PORT OBEZ MAKK? L.d.S.V.C.",
+                "colors": "yellow, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37455575541084,
+                        48.21395880516456,
+                        2.948000701346455
+                    ],
+                    [
+                        16.374542254888663,
+                        48.21397729899012,
+                        5.080133532559511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 13,
+                "numberGraf": "013",
+                "start_date": "2017-09-09",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "ANTIFAJETZT",
+                "text_more": "4.12! 13 UHR STEPHANSPLATZ!",
+                "colors": "grey, silver, red",
+                "seite": 1,
+                "political": 1,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.376628021260025,
+                        48.21249540503011,
+                        3.767648939827562
+                    ],
+                    [
+                        16.376767114704375,
+                        48.21243370146536,
+                        4.004816775566138
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 14,
+                "numberGraf": "014",
+                "start_date": "2021-03-10",
+                "end_date": "2022-09-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "grey, black",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.384290015924094,
+                        48.21249820099308,
+                        4.212603139437834
+                    ],
+                    [
+                        16.384232774063904,
+                        48.21248660067256,
+                        3.322230342680974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 15,
+                "numberGraf": "015",
+                "start_date": "2021-03-11",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "black, blue, red, green",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.384307347059814,
+                        48.21250214922404,
+                        2.674812278200415
+                    ],
+                    [
+                        16.38435863858885,
+                        48.212512914735385,
+                        3.123055646640985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 16,
+                "numberGraf": "016",
+                "start_date": "2021-03-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "GRES",
+                "text_more": "WESH 2001 ASKIM 4: MAITANE NICO ANNA",
+                "colors": "red, purple, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.382304306928948,
+                        48.21227826500692,
+                        3.551733336935451
+                    ],
+                    [
+                        16.382390273778306,
+                        48.21228156052475,
+                        3.016752481145044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 17,
+                "numberGraf": "017",
+                "start_date": "2020-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "ROLF",
+                "text_more": "TONI MF 01",
+                "colors": "white, black",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.378934440759945,
+                        48.21245598917988,
+                        4.546062007283706
+                    ],
+                    [
+                        16.378944408562223,
+                        48.21248048402358,
+                        4.602166940434365
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 18,
+                "numberGraf": "018",
+                "start_date": "2021-05-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "RFS",
+                "text_more": "STUTTGART 21",
+                "colors": "white, black, orange, yellow",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.3788811202989,
+                        48.21250450762844,
+                        6.800611105673019
+                    ],
+                    [
+                        16.378955132280264,
+                        48.21248260194647,
+                        6.918872175103674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 19,
+                "numberGraf": "019",
+                "start_date": "2020-01-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SUTO",
+                "text_more": null,
+                "colors": "white, black, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37724749852015,
+                        48.212936399774414,
+                        3.34799790726256
+                    ],
+                    [
+                        16.377292010344167,
+                        48.21291709204716,
+                        3.782889190669545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 20,
+                "numberGraf": "020",
+                "start_date": "2020-01-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "OWZY",
+                "text_more": "02 21",
+                "colors": "schwarz, pink",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.377213530135663,
+                        48.212870200055974,
+                        3.063066244325301
+                    ],
+                    [
+                        16.3772585307561,
+                        48.21285067961501,
+                        3.44231932070314
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 21,
+                "numberGraf": "021",
+                "start_date": "2021-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "NEPAL",
+                "text_more": "20",
+                "colors": "white, purple, lime",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.375572653509266,
+                        48.21427284881061,
+                        3.139565239233499
+                    ],
+                    [
+                        16.375561892870003,
+                        48.21428865621307,
+                        4.059944157557783
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 22,
+                "numberGraf": "022",
+                "start_date": "2020-01-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "CRABE",
+                "text_more": "iDSVC",
+                "colors": "green, orange, yellow",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.375525721995473,
+                        48.21434426040893,
+                        3.373417571919078
+                    ],
+                    [
+                        16.375506794364025,
+                        48.21437342119279,
+                        2.870994745862494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 23,
+                "numberGraf": "023",
+                "start_date": "2019-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "iDSVC",
+                "text_more": "F.R. CRABE",
+                "colors": "white, black, red, green",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37400376720899,
+                        48.21655762531608,
+                        4.343076739494022
+                    ],
+                    [
+                        16.374037310386345,
+                        48.21650980791571,
+                        4.846680345961516
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 24,
+                "numberGraf": "024",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "P89Y?",
+                "text_more": null,
+                "colors": "black",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37353162940478,
+                        48.21711966212977,
+                        5.245887758033377
+                    ],
+                    [
+                        16.37349067234792,
+                        48.21716677132521,
+                        3.940017365104589
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 25,
+                "numberGraf": "025",
+                "start_date": "2013-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "TOKEO",
+                "text_more": "FDS KATHY TOKEEO",
+                "colors": "purple, blue, pink, red",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.38423338738233,
+                        48.212486057809144,
+                        2.360017535156211
+                    ],
+                    [
+                        16.384318581456807,
+                        48.21250339495338,
+                        4.438204541393271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 26,
+                "numberGraf": "026",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SCiN",
+                "text_more": "PSYCHIC SHOP AUGSBURG 21 2007 STREETMAN",
+                "colors": "pink, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.375585008992225,
+                        48.21427179867426,
+                        3.206896926778584
+                    ],
+                    [
+                        16.37561602814361,
+                        48.21421923132628,
+                        2.946100609829536
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 27,
+                "numberGraf": "027",
+                "start_date": "2023-05-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "MAK",
+                "text_more": "YO: SATEK DMT ZAK MITe A2 GOMA SATEK FINN",
+                "colors": "white, purple",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367650364173986,
+                        48.22270227104423,
+                        5.383579401959719
+                    ],
+                    [
+                        16.367644996965847,
+                        48.22274931722859,
+                        4.324595568033359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 28,
+                "numberGraf": "028",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "STK",
+                "text_more": null,
+                "colors": "white, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367655849974447,
+                        48.222644232108415,
+                        4.912426513968164
+                    ],
+                    [
+                        16.367651122423467,
+                        48.222694082459384,
+                        4.741547924419958
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 29,
+                "numberGraf": "029",
+                "start_date": "2018-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "MAK",
+                "text_more": "YO: SATEK DMT ZAK MITe A2 GOMA SATEK FINN",
+                "colors": "white, purple",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.36764904647865,
+                        48.22270242083463,
+                        5.69580995852342
+                    ],
+                    [
+                        16.367645606577586,
+                        48.22275084988858,
+                        4.516167095074403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 30,
+                "numberGraf": "030",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "DABKO",
+                "text_more": "118",
+                "colors": "pink, white, teal",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369606593082263,
+                        48.219842405728535,
+                        4.318596948868727
+                    ],
+                    [
+                        16.369637010070377,
+                        48.219799395899145,
+                        4.1924792656196
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 31,
+                "numberGraf": "031",
+                "start_date": "2022-05-11",
+                "end_date": "2022-09-11",
+                "type1": 2,
+                "text": "BELARUS FREEDOM",
+                "text_more": null,
+                "colors": "red, white",
+                "seite": 2,
+                "political": 1,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369628944931932,
+                        48.21970525741746,
+                        4.95212222332131
+                    ],
+                    [
+                        16.369686934743843,
+                        48.21963192539788,
+                        5.164008935322514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 32,
+                "numberGraf": "032",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SAGWER",
+                "text_more": "WER SIEHT GUT AUS UND MACHT STRESS OHNE GRUND? DONNA",
+                "colors": "orange, red",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.370216644554173,
+                        48.21924927385683,
+                        4.801987865381986
+                    ],
+                    [
+                        16.37028683900319,
+                        48.219206556068876,
+                        3.901644221605105
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 33,
+                "numberGraf": "033",
+                "start_date": "2021-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "NR",
+                "text_more": "BAWCE LOL RAMK",
+                "colors": "black, red, green",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369698241735566,
+                        48.21859078194321,
+                        3.904168154266699
+                    ],
+                    [
+                        16.36968633419612,
+                        48.218643304093945,
+                        4.871104226901481
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 34,
+                "numberGraf": "034",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "raFeK",
+                "text_more": "BRUHE RAFEK",
+                "colors": "blue, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369650740733626,
+                        48.21868153289734,
+                        4.148351563224959
+                    ],
+                    [
+                        16.369688266753034,
+                        48.218639092655835,
+                        4.58105440121479
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 35,
+                "numberGraf": "035",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "bK AUT",
+                "colors": "green, teal",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.371303254715105,
+                        48.21756156708222,
+                        5.551037832577785
+                    ],
+                    [
+                        16.371280956866325,
+                        48.217576282106634,
+                        3.247217210178136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 36,
+                "numberGraf": "036",
+                "start_date": "2017-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "DANTES",
+                "text_more": "DANTES YO: SWP",
+                "colors": "blue, red, pink",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37155969993109,
+                        48.21732475554081,
+                        3.114931637746279
+                    ],
+                    [
+                        16.371630139787367,
+                        48.217277630456,
+                        4.771079831130834
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 37,
+                "numberGraf": "037",
+                "start_date": "2021-03-10",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "MAJ FN",
+                "text_more": "21",
+                "colors": "white",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.372008406365957,
+                        48.216934579496694,
+                        4.63227387930054
+                    ],
+                    [
+                        16.371941624555273,
+                        48.216994551581465,
+                        3.15816936739377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 38,
+                "numberGraf": "038",
+                "start_date": "2021-03-10",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "BRUCK",
+                "text_more": null,
+                "colors": "purple, blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.374466421138763,
+                        48.214080327467585,
+                        3.593582715784323
+                    ],
+                    [
+                        16.374426123790165,
+                        48.214138831537994,
+                        3.816325848809304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 39,
+                "numberGraf": "039",
+                "start_date": "2019-05-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "SWD CReW",
+                "colors": "lime",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.379008478925172,
+                        48.211750016455795,
+                        2.902393492048175
+                    ],
+                    [
+                        16.37891801521813,
+                        48.21176593733373,
+                        3.11779433111088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 40,
+                "numberGraf": "040",
+                "start_date": "2021-03-10",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "white, black, red",
+                "seite": 2,
+                "political": null,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.379339710113776,
+                        48.212422926182164,
+                        4.220633303813625
+                    ],
+                    [
+                        16.379361082724515,
+                        48.21242103968577,
+                        3.007497921705405
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 41,
+                "numberGraf": "041",
+                "start_date": "2017-09-09",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SAUL",
+                "text_more": null,
+                "colors": "grey, silver, black",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37904318605461,
+                        48.21246738665752,
+                        3.816391927065836
+                    ],
+                    [
+                        16.379147105230125,
+                        48.21244932801051,
+                        3.557317232539431
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 42,
+                "numberGraf": "043",
+                "start_date": "2017-09-09",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "grey, black",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367655672366162,
+                        48.2226458958989,
+                        4.973189315722354
+                    ],
+                    [
+                        16.367651191009408,
+                        48.22269340167459,
+                        4.945568310938894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 43,
+                "numberGraf": "044",
+                "start_date": "2017-09-09",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "FLKH",
+                "text_more": null,
+                "colors": "yellow, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.36764911113824,
+                        48.22270245228439,
+                        4.067271301190098
+                    ],
+                    [
+                        16.367645761545447,
+                        48.22274946419064,
+                        4.448583594628124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 44,
+                "numberGraf": "045",
+                "start_date": "2020-01-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "hoffe du leidest",
+                "text_more": null,
+                "colors": "grey, silver, black",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367640670764892,
+                        48.222781899253675,
+                        5.058244513314306
+                    ],
+                    [
+                        16.367638736006143,
+                        48.22280486775954,
+                        5.186351957658737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 45,
+                "numberGraf": "046",
+                "start_date": "2017-09-09",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SCRaT",
+                "text_more": null,
+                "colors": "purple, blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367640541993104,
+                        48.22280750165781,
+                        4.694499296566919
+                    ],
+                    [
+                        16.36763554682193,
+                        48.22286938948791,
+                        4.661139448707985
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 46,
+                "numberGraf": "047",
+                "start_date": "2017-09-09",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "DANTESONe",
+                "text_more": null,
+                "colors": "blue, yellow",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367636401400734,
+                        48.22286557352911,
+                        5.189324157127777
+                    ],
+                    [
+                        16.367631534261243,
+                        48.22291775610948,
+                        4.614449381385862
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 47,
+                "numberGraf": "048",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SOPTEIONe",
+                "text_more": null,
+                "colors": "white, grey, blue, black",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.368487071446772,
+                        48.21954957950923,
+                        4.328990421113387
+                    ],
+                    [
+                        16.368442873358756,
+                        48.219600496654536,
+                        3.85357718889257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 48,
+                "numberGraf": "049",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "AWSCREW",
+                "colors": "black, red, white",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.3685360335287,
+                        48.21949397065532,
+                        4.562995667317963
+                    ],
+                    [
+                        16.36848299783526,
+                        48.21955408055779,
+                        4.548041349505318
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 49,
+                "numberGraf": "050",
+                "start_date": "2017-09-09",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "GKF",
+                "colors": "white, silver, blue, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.368573663605464,
+                        48.219454280297,
+                        4.801704886900786
+                    ],
+                    [
+                        16.3686408501582,
+                        48.21938635307897,
+                        4.546720391265304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 50,
+                "numberGraf": "051",
+                "start_date": "2019-11-11",
+                "end_date": "2021-09-11",
+                "type1": 1,
+                "text": "SHiNGO",
+                "text_more": "LOL MGM",
+                "colors": "pink, lime, blue, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.370354615421483,
+                        48.21827032526807,
+                        4.196845083742467
+                    ],
+                    [
+                        16.370280315297176,
+                        48.21822438612163,
+                        4.347272315148588
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 51,
+                "numberGraf": "052",
+                "start_date": "2017-09-09",
+                "end_date": "2021-09-11",
+                "type1": 1,
+                "text": "FSA",
+                "text_more": "PANZA RENZO BLAME EMORS SERS",
+                "colors": "pink, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37163877765761,
+                        48.217270875399,
+                        3.119786259752674
+                    ],
+                    [
+                        16.3717041033831,
+                        48.21722285490824,
+                        5.438556845809397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 52,
+                "numberGraf": "053",
+                "start_date": "2019-11-12",
+                "end_date": "2021-09-11",
+                "type1": 1,
+                "text": "PANZA FSA",
+                "text_more": "21",
+                "colors": "pink, green",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.371898726085327,
+                        48.21703314232182,
+                        5.173706156300392
+                    ],
+                    [
+                        16.37183313937068,
+                        48.2170927741281,
+                        4.086607023494748
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 53,
+                "numberGraf": "054",
+                "start_date": "2019-11-11",
+                "end_date": "2021-09-11",
+                "type1": 1,
+                "text": "RENZO",
+                "text_more": "SERS",
+                "colors": "pink",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37196608541959,
+                        48.21697243538421,
+                        4.41422571045152
+                    ],
+                    [
+                        16.371897052490112,
+                        48.21703430718549,
+                        4.502177816947714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 54,
+                "numberGraf": "055",
+                "start_date": "2020-05-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "aGEnT.",
+                "text_more": null,
+                "colors": "white, orange",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37196942367697,
+                        48.216969667438896,
+                        3.863585458822339
+                    ],
+                    [
+                        16.37202411467317,
+                        48.216920124296884,
+                        4.923117087527323
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 55,
+                "numberGraf": "056",
+                "start_date": "2021-03-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "EMRE",
+                "text_more": null,
+                "colors": "blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.372060383532805,
+                        48.216926122191545,
+                        4.020390142818231
+                    ],
+                    [
+                        16.37207068698048,
+                        48.216931184523936,
+                        4.633984926809334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 56,
+                "numberGraf": "057",
+                "start_date": "2022-01-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "MAK",
+                "text_more": null,
+                "colors": "purple, blue, navy",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.372752418472682,
+                        48.21625787890458,
+                        3.894953277193086
+                    ],
+                    [
+                        16.372693824373947,
+                        48.216278102452186,
+                        4.28615974412719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 57,
+                "numberGraf": "058",
+                "start_date": "2020-01-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SATEK",
+                "text_more": "YO: MAK",
+                "colors": "white",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.372809648520484,
+                        48.21621706908639,
+                        3.159426978773879
+                    ],
+                    [
+                        16.37275867700614,
+                        48.216251292398155,
+                        3.226619292209239
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 58,
+                "numberGraf": "059",
+                "start_date": "2021-03-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "ReiFE",
+                "text_more": "REIF SCHLUSS MIT SCHWURBEL",
+                "colors": "red, lime",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37439448579197,
+                        48.214184576476065,
+                        3.510364535525772
+                    ],
+                    [
+                        16.374359304427088,
+                        48.21423523368771,
+                        4.062805830471666
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 59,
+                "numberGraf": "060",
+                "start_date": "2021-03-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "KRANE",
+                "text_more": null,
+                "colors": "blue, purple, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.374469581196752,
+                        48.21407571650993,
+                        3.848850999740665
+                    ],
+                    [
+                        16.374423731188777,
+                        48.21414218692048,
+                        3.132346052884324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 60,
+                "numberGraf": "061",
+                "start_date": "2021-03-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "BRUCK",
+                "text_more": null,
+                "colors": "blue",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.376114715733063,
+                        48.212773130938146,
+                        2.514105047701634
+                    ],
+                    [
+                        16.376153739387703,
+                        48.2127521335029,
+                        2.0733862402265
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 61,
+                "numberGraf": "062",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "ELWY 36",
+                "text_more": "MGM SG eley36",
+                "colors": "green, white",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.378020871096375,
+                        48.21192570738885,
+                        4.195128701157236
+                    ],
+                    [
+                        16.377929393495354,
+                        48.21194918671367,
+                        3.192328919823291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 62,
+                "numberGraf": "063",
+                "start_date": "2021-03-11",
+                "end_date": null,
+                "type1": 1,
+                "text": "SHiNGO?",
+                "text_more": null,
+                "colors": "pink, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.383713810853294,
+                        48.21237442094949,
+                        2.335085564312239
+                    ],
+                    [
+                        16.38380861206127,
+                        48.21241100349663,
+                        4.216324942908228
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 63,
+                "numberGraf": "064",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "PANZA FSa",
+                "text_more": "21",
+                "colors": "pink, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.38360439925321,
+                        48.21235913152497,
+                        4.025895075413282
+                    ],
+                    [
+                        16.38371741059662,
+                        48.21237593366975,
+                        2.733996885134683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 64,
+                "numberGraf": "065",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "Freiheit",
+                "text_more": null,
+                "colors": "black",
+                "seite": 2,
+                "political": 1,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.385039711952498,
+                        48.21273007716044,
+                        4.122164909709123
+                    ],
+                    [
+                        16.38510739426002,
+                        48.21271263457625,
+                        2.756650057194531
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 65,
+                "numberGraf": "066",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 2,
+                "text": "CMA",
+                "text_more": null,
+                "colors": "blue, orange",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.385268607793005,
+                        48.21276983292562,
+                        2.953788907923565
+                    ],
+                    [
+                        16.385280600968017,
+                        48.21275782427467,
+                        2.838160593935181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 66,
+                "numberGraf": "067",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SOW?",
+                "text_more": null,
+                "colors": "grey",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.385788311732814,
+                        48.21294598291023,
+                        2.629793526712962
+                    ],
+                    [
+                        16.38599567209565,
+                        48.213030624221666,
+                        4.927123329862503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 67,
+                "numberGraf": "068",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "aRiblo?",
+                "text_more": null,
+                "colors": "red, pink, purple",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.390102481908592,
+                        48.21373115860346,
+                        3.371291503215786
+                    ],
+                    [
+                        16.390184982088186,
+                        48.213726372783384,
+                        3.291163139533996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 68,
+                "numberGraf": "069",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SOMA",
+                "text_more": "NATUR 21",
+                "colors": "white, pink, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.391538777346625,
+                        48.21349399545805,
+                        3.083721248558368
+                    ],
+                    [
+                        16.3916138362243,
+                        48.21347944491131,
+                        3.786071081443572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 69,
+                "numberGraf": "070",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "VITO",
+                "text_more": "AUROS DONT SLEEP 21",
+                "colors": "white, red",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.391564980677668,
+                        48.21341078905653,
+                        2.903489828189347
+                    ],
+                    [
+                        16.391511824000474,
+                        48.21342123737427,
+                        3.766639016795517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 70,
+                "numberGraf": "071",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "KETA",
+                "text_more": "HEROIN ALABA LUXUS CRYSTAL SUBUTEX SEX RUDI PISUK KETA GOTT ELIAS OSKAR 666 2021",
+                "colors": "white, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.39244717790858,
+                        48.213286126059316,
+                        3.228856790446931
+                    ],
+                    [
+                        16.392484335866204,
+                        48.2132736537747,
+                        3.836448778887043
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 71,
+                "numberGraf": "072",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "THE WORLD HAS ENOUGH GOOD PEOPLE SO BE NOTORIOUS",
+                "text_more": null,
+                "colors": "black, red, yellow",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.36763459903321,
+                        48.22287160020385,
+                        3.696051138982111
+                    ],
+                    [
+                        16.367630395070556,
+                        48.22290767287829,
+                        3.888933172788494
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 72,
+                "numberGraf": "073",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": null,
+                "colors": "silver, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369250219837728,
+                        48.22027986034988,
+                        4.257711070247947
+                    ],
+                    [
+                        16.369264143380722,
+                        48.22025865520309,
+                        4.321107449508064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 73,
+                "numberGraf": "074",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 2,
+                "text": "DIE BITCH WIRD 20",
+                "text_more": null,
+                "colors": "white, pink, black",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369639686012842,
+                        48.219804953051366,
+                        3.832328406839582
+                    ],
+                    [
+                        16.369626790545276,
+                        48.219778648374735,
+                        3.520862527848888
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 74,
+                "numberGraf": "075",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "WIRLaC?",
+                "text_more": null,
+                "colors": "rainbow",
+                "seite": 2,
+                "political": null,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37018305422848,
+                        48.219272298505736,
+                        4.593352280691987
+                    ],
+                    [
+                        16.370287998741205,
+                        48.21920521574742,
+                        4.52914980904992
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 75,
+                "numberGraf": "076",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SILO",
+                "text_more": null,
+                "colors": "blue, orange",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37090801201842,
+                        48.218821926224,
+                        4.941960465079696
+                    ],
+                    [
+                        16.370875153258325,
+                        48.2188406841807,
+                        3.817145221891295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 76,
+                "numberGraf": "077",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SO?",
+                "text_more": "21",
+                "colors": "white, black",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.371392188069706,
+                        48.217446639301585,
+                        4.192257709029742
+                    ],
+                    [
+                        16.37140353737869,
+                        48.21744024042461,
+                        5.126405328979176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 77,
+                "numberGraf": "078",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "SETUP MTN SPENK MPU GFS KiKi MARY HANNAH PAPEN AEON",
+                "colors": "white, purple, pink",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37193850197482,
+                        48.216997576668774,
+                        4.489138130675936
+                    ],
+                    [
+                        16.371900209279556,
+                        48.21703228779874,
+                        3.282361887703899
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 78,
+                "numberGraf": "080",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SOBIKCiS",
+                "text_more": null,
+                "colors": "yellow, purple, blue, pink",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37405742598755,
+                        48.21461323099219,
+                        3.162490690005343
+                    ],
+                    [
+                        16.374030068156344,
+                        48.21465313380772,
+                        3.149521488944933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 79,
+                "numberGraf": "081",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "SOBIKCiS!",
+                "text_more": null,
+                "colors": "white, grey, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37410822318672,
+                        48.21453909963201,
+                        4.142588925752594
+                    ],
+                    [
+                        16.374056410771093,
+                        48.21461475952408,
+                        3.343400862998184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 80,
+                "numberGraf": "082",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "EL PPGL",
+                "text_more": "1180 1160",
+                "colors": "white, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.374585842548466,
+                        48.21389978096326,
+                        4.174294260098992
+                    ],
+                    [
+                        16.374624500020968,
+                        48.21384098018295,
+                        2.775332715545193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 81,
+                "numberGraf": "083",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": null,
+                "colors": "red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.376146704598618,
+                        48.21274922850618,
+                        2.358127856254588
+                    ],
+                    [
+                        16.376167287418458,
+                        48.21273916969796,
+                        2.521652478563725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 82,
+                "numberGraf": "084",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": null,
+                "colors": "grey, white, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37411015050292,
+                        48.214536113493345,
+                        3.624435329156077
+                    ],
+                    [
+                        16.374122148008436,
+                        48.21451931379721,
+                        4.26827170602768
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 83,
+                "numberGraf": "085",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "EZER",
+                "text_more": null,
+                "colors": "black, white",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.379238172944945,
+                        48.21170314988084,
+                        7.326884432263725
+                    ],
+                    [
+                        16.379289104608095,
+                        48.211696250512816,
+                        6.162237229004296
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 84,
+                "numberGraf": "086",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": null,
+                "colors": "yellow, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.379691340252776,
+                        48.21237829667613,
+                        3.206567884271773
+                    ],
+                    [
+                        16.379830567566177,
+                        48.21236092091141,
+                        3.78325351322747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 85,
+                "numberGraf": "087",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "PHEKT",
+                "text_more": "PHEKTA KRyOT KERAMIK SHUE FADER LORDS 2021",
+                "colors": "white, black, purple, pink, red",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.38529528132013,
+                        48.21275360593052,
+                        3.038164752093488
+                    ],
+                    [
+                        16.385377512056987,
+                        48.21278740582752,
+                        4.16890604893853
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 86,
+                "numberGraf": "088",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "ONESUB 124 jBCB WXS",
+                "colors": "blue, teal",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.385366887913474,
+                        48.21278361911284,
+                        3.294338837471314
+                    ],
+                    [
+                        16.385458570156903,
+                        48.21281407461229,
+                        3.57815604942913
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 87,
+                "numberGraf": "089",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "MWE",
+                "text_more": "YO: SATEK DMT 21",
+                "colors": "grey, silver",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367648640293446,
+                        48.22270241146887,
+                        5.447607657225631
+                    ],
+                    [
+                        16.36764549629925,
+                        48.222749484252,
+                        4.878771960305325
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 88,
+                "numberGraf": "090",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "HOLY SPIRIT",
+                "colors": "grey, silver, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367640188226108,
+                        48.22280341669435,
+                        3.779357582553649
+                    ],
+                    [
+                        16.3676356089903,
+                        48.222868582564814,
+                        5.528324871417104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 89,
+                "numberGraf": "091",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": "MADE BY THOSE LAZY ITALIANS WITH LIES",
+                "colors": "red, blue, black, brown",
+                "seite": 1,
+                "political": null,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367633846884605,
+                        48.222870126535355,
+                        5.289674166085195
+                    ],
+                    [
+                        16.3676303296849,
+                        48.22290795204757,
+                        3.59654950079153
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 90,
+                "numberGraf": "092",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": "VOICE",
+                "text_more": "GARY VON ANNA Johannes",
+                "colors": "navy, pink, blue",
+                "seite": 1,
+                "political": null,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367574992838524,
+                        48.222922170646136,
+                        4.854284104632142
+                    ],
+                    [
+                        16.36757497918792,
+                        48.22294753508995,
+                        4.324378895095827
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 91,
+                "numberGraf": "093",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": null,
+                "colors": "black, white, grey",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.367666542245964,
+                        48.22253253397388,
+                        5.192681694736359
+                    ],
+                    [
+                        16.36766164755876,
+                        48.222551548638485,
+                        4.696564780870601
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 92,
+                "numberGraf": "094",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "SOBeKCiS",
+                "text_more": null,
+                "colors": "black, white, red",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369201224905805,
+                        48.22037314371519,
+                        4.137263642271589
+                    ],
+                    [
+                        16.36925370597856,
+                        48.22027394852803,
+                        3.541484875993182
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 93,
+                "numberGraf": "095",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "NiX",
+                "text_more": null,
+                "colors": "yellow, teal",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.3706205764519,
+                        48.21896095915607,
+                        4.777289366571656
+                    ],
+                    [
+                        16.370661134759242,
+                        48.218937436208435,
+                        4.461446241467948
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 94,
+                "numberGraf": "096",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "?",
+                "text_more": "GDM 21",
+                "colors": "pink, blue",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.370969108316164,
+                        48.2186482721282,
+                        2.528557444921322
+                    ],
+                    [
+                        16.371016088486833,
+                        48.21862084100441,
+                        1.935543169791945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 95,
+                "numberGraf": "098",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 2,
+                "text": null,
+                "text_more": null,
+                "colors": "black, white, grey",
+                "seite": 2,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.369286725553664,
+                        48.22018732614521,
+                        4.745055892307238
+                    ],
+                    [
+                        16.369295355196034,
+                        48.22017346872384,
+                        2.766310405336334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 96,
+                "numberGraf": "099",
+                "start_date": "2019-11-11",
+                "end_date": "2022-09-11",
+                "type1": 1,
+                "text": "CAPAC",
+                "text_more": null,
+                "colors": "green, grey, orange",
+                "seite": 1,
+                "political": null,
+                "animals": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.3714804199662,
+                        48.21738235854358,
+                        3.64084378754904
+                    ],
+                    [
+                        16.371547806248653,
+                        48.217335140192695,
+                        4.044435712111341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 97,
+                "numberGraf": "100",
+                "start_date": "2019-11-11",
+                "end_date": "2023-05-11",
+                "type1": 1,
+                "text": "BMANIA",
+                "text_more": null,
+                "colors": "pink, blue, red",
+                "seite": 1,
+                "political": null,
+                "animals": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37163802529866,
+                        48.217269564844514,
+                        3.055998591086767
+                    ],
+                    [
+                        16.371705713116057,
+                        48.21722251788992,
+                        5.408319849895026
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+  <meta charset="utf-8" />
+  <title>Graffiti Map</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+  <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+  <link href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css" rel="stylesheet" />
+  <link href="//cdn.bootcss.com/noUiSlider/8.5.1/nouislider.min.css" rel="stylesheet">
+  <script src="//cdn.bootcss.com/noUiSlider/8.5.1/nouislider.js"></script>
+  <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+  <div id="map-container">
+    <div id="map"></div>
+
+    <div id="menu-icon">
+      <span class="icon-image"></span>
+      <span class="icon-text">Layers</span>
+    </div>
+
+    <div id="basemap-menu">
+      <ul id="basemap-list">
+        <li id="grey" data-basemap="grey">Topological Map (grey)</li>
+        <li id="standard" data-basemap="standard">Topological Map (standard)</li>
+        <li id="aerial" data-basemap="aerial">Aerial Imagery</li>
+        <li id="osm" data-basemap="osm">Open Street Map</li>
+      </ul>
+      <div id="buildings_checkbox" class="checkbox_hover" onclick="toggleBuildings()">
+        <input type="checkbox" class="checkbox_hover" id="button_buildings" checked>3D Buildings</input>
+      </div>
+    </div>
+
+
+    <span id="filter_menu">
+      <b>Filter Options:</b>
+      <br>
+
+      <span>Graffiti types</span>
+      <select id="type_of_graffiti" class="checkbox_hover">
+        <option value="default">all</option>
+        <option value="option1">text-centric</option>
+        <option value="option2">visual-centric</option>
+      </select>
+      <br>
+
+      <span>Graffiti content</span>
+      <label class="checkbox_hover" for="political-checkbox">&#8226; political
+        <input type="checkbox" class="checkbox_hover" id="political-checkbox">
+      </label>
+      <label class="checkbox_hover" for="animal-checkbox">&#8226; animals
+        <input type="checkbox" class="checkbox_hover" id="animal-checkbox">
+      </label>
+      <br>
+
+      <span>Donaukanal sides</span>
+      <select id="donaukanal_side" class="checkbox_hover">
+        <option value="default">both</option>
+        <option value="option1">Inner City side</option>
+        <option value="option2">Leopoldstadt side</option>
+      </select>
+
+    </span>
+
+
+    <div id="button_container">
+      <button class="toggleButton" id="filterButton">
+        <img id="filter_img" src="icons/filter_symbol_white.svg" alt="Filter Button"> Filters
+      </button>
+
+      <span id="slider-container">
+        <input type="date" id="start-date" value="2000-01-01">
+        <span id="slider"></span>
+        <input type="date" id="end-date" value="2023-12-31">
+      </span>
+
+      <button id="button_3D" class="toggleButton" onclick="toggleMapMode()">2D</button>
+
+    </div>
+
+    <span id="feature-number"></span>
+
+    <div id="right" class="sidebar flex-center right collapsed">
+      <div id="right_box" class="sidebar-content rounded-rect flex-center">
+        <div id="content-wrapper">
+        </div>
+        <div id="sidebar_toggle_button" class="sidebar-toggle rounded-rect right" onclick="toggleSidebar()">
+          &larr;
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="js/3Dversion.js"></script>
+
+</body>
+</html>
